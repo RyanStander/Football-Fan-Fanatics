@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec015f2f2c0ed014fb0ae58814551043, type: 3}
+  m_Name: Overrun
+  m_EditorClassIdentifier: 
+  SceneName: Overrun
+  LevelDisplayName: Overrun
+  LevelPreviewSprite: {fileID: 21300000, guid: dec9dd0a8666d4a41b549ba618e0bfa5, type: 3}
+  LevelDescription: The football fans are angered by the increase of popularity of
+    football so football fights football to see if football truly is superior to
+    football

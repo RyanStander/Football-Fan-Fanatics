@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0860e332e66e4997afbb473437763111, type: 3}
+  m_Name: Soccer_hooligan_1
+  m_EditorClassIdentifier: 
+  TeamType: 0
+  UnitLevel: 1
+  Walk:
+  - {fileID: 21300000, guid: 555d72347c6334147ae992ad59b93301, type: 3}
+  - {fileID: 21300000, guid: 6c34d7a550d106a4fbee1f8097d77b85, type: 3}
+  WalkFPS: 4
+  Attack: []
+  AttackFPS: 0
+  Idle:
+  - {fileID: 21300000, guid: 555d72347c6334147ae992ad59b93301, type: 3}
+  IdleFPS: 0

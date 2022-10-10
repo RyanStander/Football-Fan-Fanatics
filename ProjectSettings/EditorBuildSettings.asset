@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2a50d5b1dc8395d4a89cfaa437ad9b12
+  - enabled: 1
+    path: Assets/Scenes/Overrun.unity
+    guid: 9a005d6129223f94782ed188d777c52a
+  - enabled: 1
+    path: Assets/Scenes/CircularSlaughter.unity
+    guid: 1a9a7f3c77fe26345b3a6b5d41134e45
+  - enabled: 1
+    path: Assets/Scenes/QuickDecision.unity
+    guid: b2d3adc3a995a9941a5bfe20db3bbefe
+  - enabled: 1
+    path: Assets/Scenes/JeroenTest.unity
+    guid: 248d4d7c645d9054bbba4f964efcb2f4
+  m_configObjects: {}
